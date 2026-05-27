@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "userfncrypt",
+        "uuid": 3414110,
+        "checksum": "i42ka"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
